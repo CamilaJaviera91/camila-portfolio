@@ -189,6 +189,8 @@ main.content::-webkit-scrollbar-thumb {
   height: 32px;
   border-radius: 0;
   object-fit: contain;
+  border: none;
+  box-shadow: none;
 }
 
 .banner {
