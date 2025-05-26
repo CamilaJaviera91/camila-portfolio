@@ -73,6 +73,14 @@ body {
   text-decoration: underline;
 }
 
+.sidebar img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;  /* Esto hace que la imagen se vea circular */
+  border: 3px solid #3b82f6;
+  object-fit: cover;   /* Ajusta bien la imagen sin deformar */
+}
+
 main.content {
   flex-grow: 1;
   padding: 40px 60px;
