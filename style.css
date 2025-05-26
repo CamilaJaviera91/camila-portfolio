@@ -177,3 +177,8 @@ main.content::-webkit-scrollbar-thumb {
 .download-cv:hover {
   background-color: #2563eb;
 }
+
+.tech-stack img {
+  margin: 5px;
+  height: 32px; /* Ajusta según tu gusto */
+}
