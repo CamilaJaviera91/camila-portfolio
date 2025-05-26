@@ -11,6 +11,12 @@ body {
   display: flex;
   min-height: 100vh;
 }
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
 .sidebar {
   background-color: #1f2937;
   color: #cbd5e1;
@@ -196,4 +202,5 @@ main.content::-webkit-scrollbar-thumb {
   height: auto;
   display: block;
   object-fit: cover;
+  border-bottom: 2px solid #e0e0e0;
 }
