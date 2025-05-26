@@ -185,6 +185,12 @@ main.content::-webkit-scrollbar-thumb {
   object-fit: contain;
 }
 
+.banner {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 .banner-image {
   width: 100%;
   height: auto;
