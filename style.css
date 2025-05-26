@@ -166,16 +166,13 @@ main.content::-webkit-scrollbar-thumb {
 
 .download-cv {
   display: inline-block;
-  margin-top: 15px;
-  padding: 12px 20px;
   background-color: #3b82f6;
   color: white;
+  padding: 10px 18px;
+  border-radius: 6px;
   text-decoration: none;
-  border-radius: 8px;
   font-weight: 600;
-  font-size: 16px;
   transition: background-color 0.3s ease;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 .download-cv:hover {
   background-color: #2563eb;
