@@ -182,3 +182,10 @@ main.content::-webkit-scrollbar-thumb {
   margin: 5px;
   height: 32px; 
 }
+
+.banner-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
